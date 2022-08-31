@@ -11,14 +11,7 @@
 - ☕ Ask me about Digital Marketing, Brand/Business Development, and Tech Trends.
 - 🌎 Building the future one line of code at a time.
 
-
-
-
-☕ Ask me about Digital Marketing, Brand/Business Development, and Tech Trends.
-
-
-<img width="800" height="400 alt="logo-screen" src="https://user-images.githubusercontent.com/94092631/187739760-67bb08b1-cf8e-4cef-94e2-80c8b3b6fc85.png">
-<!--
+<!-
 **stvlley/stvlley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
